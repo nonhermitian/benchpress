@@ -84,3 +84,8 @@ bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamilto
 tket_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_bh_graph-2D-triag-pbc-qubitnodes_Lx-3_Ly-22_U-70_enc-unary_d-4-all-to-all]
 tket_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_bh_graph-2D-triag-pbc-qubitnodes_Lx-3_Ly-22_U-70_enc-unary_d-4-square]
 tket_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_bh_graph-2D-triag-pbc-qubitnodes_Lx-3_Ly-22_U-70_enc-unary_d-4-heavy-hex]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_ham_JW-14]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_ham_JW-18]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_ham_JW-22]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_ham_BK22]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_ham_JW24]
