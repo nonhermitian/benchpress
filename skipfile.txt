@@ -94,3 +94,4 @@ bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamilto
 bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_tsp_prob-fl417_Ncity-16_enc-stdbinary]
 bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_bh_graph-1D-grid-pbc-qubitnodes_Lx-10_U-30_enc-unary_d-8]
 bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_bh_graph-2D-triag-pbc-qubitnodes_Lx-10_Ly-10_U-30_enc-stdbinary_d-4]
+bqskit_gym/device_transpile/test_hamiltonians.py::TestWorkoutDeviceHamlibHamiltonians::test_hamlib_hamiltonians_transpile[ham_bh_graph-2D-triag-pbc-qubitnodes_Lx-3_Ly-22_U-70_enc-unary_d-4]
