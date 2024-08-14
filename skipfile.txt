@@ -193,3 +193,4 @@ qiskit_transpiler_service_gym/abstract_transpile/test_hamiltonians.py::TestWorko
 qiskit_transpiler_service_gym/abstract_transpile/test_qasmbench.py::TestWorkoutAbstractQasmBenchLarge::test_QASMBench_large[swap_test_n115-square]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ham_JW-14-heavy-hex]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ham_JW-14-linear]
+bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_enc_unary_dvalues_4-4-4-linear]
