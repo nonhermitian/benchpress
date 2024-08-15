@@ -197,3 +197,5 @@ bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltoni
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ham_BK-14-linear]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_gnp-k_5_n-60_rinst-19-linear]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_gnp-k_5_n-90_rinst-02-linear]
+bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_fh-graph-2D-grid-pbc-qubitnodes_Lx-2_Ly-105_U-8_enc-bk-heavy-hex]
+bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_fh-graph-2D-grid-pbc-qubitnodes_Lx-2_Ly-105_U-8_enc-bk-linear]
