@@ -195,3 +195,4 @@ bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltoni
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ham_JW-14-linear]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_enc_unary_dvalues_4-4-4-linear]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ham_BK-14-linear]
+bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_gnp-k_5_n-60_rinst-19-linear]
