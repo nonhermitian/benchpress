@@ -204,3 +204,4 @@ bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltoni
 qiskit_transpiler_service_gym/abstract_transpile/test_qasmbench.py::TestWorkoutAbstractQasmBenchLarge::test_QASMBench_large[bwt_n37-square]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_ash608gpia,n-160,rinst-1-linear]
 bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_graph-2D-triag-nonpbc-qubitnodes_Lx-40_Ly-40_h-0.1-linear]
+bqskit_gym/abstract_transpile/test_hamiltonians.py::TestWorkoutAbstractHamiltonians::test_hamiltonians[ham_graph-2D-grid-pbc-qubitnodes_Lx-5_Ly-186_h-3-linear]
